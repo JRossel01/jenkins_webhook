@@ -4,4 +4,3 @@ Repo para generar eventos para Jenkins
 - Paso 1: Webhook habilitado OK
 - Paso 2: Repositorio creado y clonado localmente OK
 - Paso 3: Webhook configurado en Github OK, probando...
-- Paso 4: (PRUEBA)
